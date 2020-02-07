@@ -364,6 +364,7 @@ body {
 
   .header-active {
     display: flex;
+    z-index: 1;
   }
 
   .logo {
